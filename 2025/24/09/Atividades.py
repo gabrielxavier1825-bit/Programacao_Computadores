@@ -21,4 +21,5 @@ print(f'A área do círculo de raio = {raio} é {area:.2f}')
 
 valorA = int(input('Informe o primeiro valor: '))
 valorB = int(input('Informe o segundo valor: '))
-media = (valorA + valorB)
+media = (valorA + valorB) /2
+print(f'A média entre {valorA} e {valorB} é {media}')
