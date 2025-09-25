@@ -13,3 +13,12 @@ s = n1+n2
 h = s*n3/2
 print(f'O resultado é:{h}')
 print(f'A área do círculo de raio = {raio} é {area:.2f}')
+
+# Desenvolva um programa em Python que solicite ao usuário os valores da base maior, base menor e altura de um trapézio e, em seguida, calcule e exiba a sua área.
+# Utilize a fórmula da área do trapézio.
+
+#Desenvolva um programa em Python que solicite ao usuário dois valores inteiros e em seguida calcule a média aritmética entre eles.
+
+valorA = int(input('Informe o primeiro valor: '))
+valorB = int(input('Informe o segundo valor: '))
+media = (valorA + valorB)
